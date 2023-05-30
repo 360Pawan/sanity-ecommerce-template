@@ -16,7 +16,7 @@ export default defineConfig({
   name: 'default',
   title: 'borobazar',
 
-  projectId: 'nr7m6a6r',
+  projectId: 't1mq8vmn',
   dataset: 'production',
 
   plugins: [
